@@ -1,0 +1,1 @@
+Wordpress plugin(which also creates widget) example which is created based on latest wp standards and uses also ajax functionality

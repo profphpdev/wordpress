@@ -1,0 +1,13 @@
+.form
+{
+ 
+}
+.data_table_div
+{
+     margin: 30px auto;
+   width: 90%;
+}
+#example tbody tr
+{
+    cursor: pointer;
+}
